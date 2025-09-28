@@ -79,6 +79,10 @@ Leverages Kadena's unique braided blockchain architecture to achieve institution
                     └───────────────────────────┘
 \`\`\`
 
+## 📊 Contract
+
+Contract Address: 0xfcb35c6bbd7cf1dcd19d70172e7605ae992cc6ca98e49797f1ca53ac44e0bafe
+
 ## 📊 Demo Scenarios
 
 ### **Scenario 1: Real Estate Tokenization**
