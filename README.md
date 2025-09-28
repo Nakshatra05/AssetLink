@@ -1,5 +1,4 @@
-# AssetLink - Hackathon Submission
-
+# AssetLink
 ## 🏆 Project Overview
 
 **AssetLink** is an institutional-grade Real-World Asset (RWA) tokenization platform built specifically for the [Hackathon Name]. Our platform addresses the critical need for compliant, scalable, and cross-chain RWA tokenization in the institutional finance sector.
